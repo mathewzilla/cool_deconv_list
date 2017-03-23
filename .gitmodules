@@ -16,3 +16,6 @@
 [submodule "OASIS_matlab"]
 	path = OASIS_matlab
 	url = https://github.com/zhoupc/OASIS_matlab.git
+[submodule "oopsi"]
+	path = oopsi
+	url = https://github.com/jovo/oopsi.git
