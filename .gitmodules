@@ -7,3 +7,6 @@
 [submodule "ca_source_extraction"]
 	path = ca_source_extraction
 	url = https://github.com/epnev/ca_source_extraction.git
+[submodule "Suite2P"]
+	path = Suite2P
+	url = https://github.com/cortex-lab/Suite2P.git
