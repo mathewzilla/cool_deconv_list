@@ -10,3 +10,6 @@
 [submodule "Suite2P"]
 	path = Suite2P
 	url = https://github.com/cortex-lab/Suite2P.git
+[submodule "OASIS"]
+	path = OASIS
+	url = https://github.com/j-friedrich/OASIS.git
