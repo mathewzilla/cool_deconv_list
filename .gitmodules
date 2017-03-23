@@ -19,3 +19,6 @@
 [submodule "oopsi"]
 	path = oopsi
 	url = https://github.com/jovo/oopsi.git
+[submodule "Imaging_Analysis"]
+	path = Imaging_Analysis
+	url = https://github.com/eladganmor/Imaging_Analysis.git
