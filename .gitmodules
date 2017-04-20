@@ -25,3 +25,6 @@
 [submodule "CalciumSim"]
 	path = CalciumSim
 	url = https://github.com/HelmchenLab/CalciumSim.git
+[submodule "LZeroSpikeInference"]
+	path = LZeroSpikeInference
+	url = https://github.com/jewellsean/LZeroSpikeInference.git
